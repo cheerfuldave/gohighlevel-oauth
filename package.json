@@ -1,0 +1,12 @@
+{
+  "name": "gohighlevel-oauth",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 flow for GoHighLevel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
